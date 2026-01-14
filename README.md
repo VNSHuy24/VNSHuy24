@@ -4,10 +4,10 @@
 🔐 Interested in backend systems, data security, and mobile development
 
 ### 🛠 Technologies
-- **Backend**: Java, Python, FastAPI  
-- **Mobile**: Android (Kotlin), Flutter (Dart)  
-- **Database & Security**: Oracle, RBAC, VPD  
-- **Others**: Git, REST API
+- **Backend**: Node.js, Express .js, FastAPI
+- **Mobile**: Android (Kotlin, XML), Flutter (Dart)  
+- **Database & Security**: MSSQL, Posgres, Oracle, DAC, RBAC
+- **Others**: Git, Github, Supabase, Postman
 
 ### 💼 Roles & Experience
 - Backend developer  
